@@ -1,4 +1,4 @@
-Project To_Do list,using Firebase
+Project To_Do list,using React-Redux and Firebase
 
 Direct link on web-application:https://personaltodo-7d92d.web.app/
 
